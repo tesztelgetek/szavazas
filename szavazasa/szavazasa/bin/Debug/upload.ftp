@@ -1,0 +1,6 @@
+open ftp.x3.hu
+strabi
+31411235ftpF
+mput D:\teszt2.txt
+mget teszt.txt
+bye

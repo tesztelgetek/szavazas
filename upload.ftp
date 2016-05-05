@@ -1,0 +1,5 @@
+open ftp.x3.hu
+tesztelgetek
+123456789
+mput szav.txt
+bye

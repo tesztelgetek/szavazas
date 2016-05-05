@@ -1,0 +1,4 @@
+open ftp.x3.hu
+strabi
+31411235ftpF
+mget szavazas.txt
